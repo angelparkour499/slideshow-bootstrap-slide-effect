@@ -1,0 +1,1 @@
+# Slideshow Bootstrap with slide effect and pointers
