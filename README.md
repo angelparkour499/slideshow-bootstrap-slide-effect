@@ -11,3 +11,14 @@ Responsive slideshow using bootstrap with slide effect and pointers [Codepen sam
 
 
 ![Slideshow sample #2](https://github.com/angelparkour499/slideshow-bootstrap-slide-effect/blob/master/Slideshow_example.png)
+
+## Slideshow responsive sample
+---
+
+![Slideshow sample #3](https://github.com/angelparkour499/slideshow-bootstrap-slide-effect/blob/master/Slideshow_example%234.png)
+
+
+![Slideshow sample #4](https://github.com/angelparkour499/slideshow-bootstrap-slide-effect/blob/master/Slideshow_example%233.png)
+
+
+ *The blocks used in the slideshow where built by myself, they work responsive as well*
